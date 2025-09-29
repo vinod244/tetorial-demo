@@ -1,2 +1,2 @@
 # tetorial-demo
-This is my second Repository.
+This is my second Git Repository.
